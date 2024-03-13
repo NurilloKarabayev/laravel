@@ -111,6 +111,7 @@ Product::add_product('sendwich',31000,'Nurullo');
 
 // $ali = User::login('Yoldosh',45);
 // var_dump($ali);
+// var_dump($ali);
 
 
 ?>
